@@ -10,7 +10,5 @@ def max_subarray_sum(arr):
 
     return max_sum
 
-
-# Example
 arr =  [2, 3, -8, 7, -1, 2, 3]
 print(max_subarray_sum(arr))
